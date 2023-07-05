@@ -1,0 +1,6 @@
+5
+86C:\Webbutveckling 5\9. Cart with max value\dist\9. Cart with max value.3464ddca.js.map133330448353400381 0
+47C:\Webbutveckling 5\9. Cart with max value\dist133330450940288417 1
+53C:\Webbutveckling 5\9. Cart with max value\index.html133330450939758575 0
+82C:\Webbutveckling 5\9. Cart with max value\dist\9. Cart with max value.3464ddca.js133330448353298786 0
+58C:\Webbutveckling 5\9. Cart with max value\dist\index.html133330450940282426 0

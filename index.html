@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <button
+      onclick="
+    if(cartQuantity + 1 > 10){
+        alert('Your cart is full')
+    }else {
+        cartQuantity++;
+    }
+    console.log(cartQuantity);
+        "
+    >
+      1
+    </button>
+    <button
+      onclick="
+      if(1> cartQuantity){
+        alert('The cart is not full')
+      }
+      else{
+        cartQuantity --;
+      }
+  
+   console.log(cartQuantity);
+    "
+    >
+      -1
+    </button>
+    <button
+      onclick="
+    cartQuantity +=0;
+    console.log(`The cart quantity ${cartQuantity}`);
+    "
+    >
+      Cart
+    </button>
+    <button
+      onclick="
+    cartQuantity =0;
+    console.log(`You resert the cart to ${cartQuantity}`);
+    "
+    >
+      Reset cart
+    </button>
+
+    <script>
+      let cartQuantity = 0;
+    </script>
+  </body>
+</html>
